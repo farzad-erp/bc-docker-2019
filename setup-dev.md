@@ -61,3 +61,11 @@ new-navcontainer `
   creating desktop shortcuts for bsuserpass01
   container bsuserpass01 successfully created
  #>
+ 
+ 
+ 
+ 
+ api link:
+ http://bsuserpass01:7048/Nav/api/beta/$metadata/
+ 
+ 
