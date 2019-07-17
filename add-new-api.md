@@ -41,8 +41,10 @@ page 50109 ItemEntityApi2
  see the path to our new api page (to consume)
  http://localhost:7048/NAV/api/bwg/group1/beta/companies(1b8d4e1a-577a-4831-b8aa-e6097e9f3887)/ItemEntityApi2s
  
- possible url to see only the extended api pages:
+ The url to see only the extended api pages:
  http://localhost:7048/NAV/api/bwg/group1/beta/$metadata
+ http://localhost:7048/NAV/api/bwg/group1/beta/
+ 
  
  
  
